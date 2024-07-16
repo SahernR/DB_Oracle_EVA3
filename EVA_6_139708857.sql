@@ -1,7 +1,6 @@
 -- Sebastian Ahern Ruiz
--- 13.970.885-7
---verificacion de Oracle SQL
---https://livesql.oracle.com/apex/f?p=590:1:13033384664874::NO:RP::
+-- verificacion de Oracle SQL
+-- https://livesql.oracle.com/apex/f?p=590:1:13033384664874::NO:RP::
 -- Repositorio GitHub
 --
 
